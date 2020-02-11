@@ -9,9 +9,6 @@ import java.util.Locale;
 
 public class DateUtills {
 
-
-
-
     public static Date addDays(Date date, int days) {
         Calendar cal = Calendar.getInstance();
         cal.setTime(date);

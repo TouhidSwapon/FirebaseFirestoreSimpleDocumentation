@@ -26,7 +26,7 @@ public class CallUtills {
         return result;
     }
 
-    public static String getDuration(String secString) {
+    public static String getDurationWithoutHour(String secString) {
 
         int seconds = Integer.parseInt(secString);
         int p1 = seconds % 60;
