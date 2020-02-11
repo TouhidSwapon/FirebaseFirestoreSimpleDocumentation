@@ -1,2 +1,2 @@
 # MyUtills
-A collection of custome java method which are usually used in most projects as support class. 
+A collection of custom java method which are usually used in most projects as support class. 
